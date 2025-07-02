@@ -7,7 +7,7 @@ import NewsletterBox from '../components/NewsletterBox'
 
 const Home = () => {
   return (
-    <div>
+    <div className="bg-white min-h-screen">
         <Hero/>
         <LatestCollection/>
         <BestSeller />
