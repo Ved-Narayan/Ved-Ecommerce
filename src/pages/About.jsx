@@ -1,7 +1,7 @@
 import React from 'react'
 import Title from '../components/Title'
 import {assets} from '../assets/assets'
-import NewsLetterBox from '../components/NewsLetterBox'
+import NewsletterBox from '../components/NewsletterBox'
 
 const About = () => {
   return (
@@ -39,7 +39,7 @@ const About = () => {
           <p className='text-gray=600'>Your security is our top priority. We use the latest encryption technology to protect your personal and payment information, ensuring a safe shopping environment.</p>
         </div>
       </div>
-      <NewsLetterBox />
+      <NewsletterBox />
 
 
     </div>
